@@ -39,7 +39,7 @@ export default function Home() {
       </div>
       <div className="text-[#ADB7BE] text:text-lg lg:text-lg pt-8 pl-8 pr-2 lg:ml-24 lg:pl-40 lg:pt-28 flex lg:items-center lg:justify-start lg:text-start  ">
         <ul className="list-none text-white font-sans ">
-          <li className="py-2">🟠Onboarding aller Benutzer mit einem ansprechenden "Connect Wallet"-Modal </li>
+          <li className="py-2">🟠Onboarding aller Benutzer mit einem ansprechenden Connect Wallet-Modal </li>
           <li className="py-2">🟠Flexible Anmeldeoptionen für Web2 & Web3</li>
           <li className="py-2">🟠Erweiterbare Möglichkeiten, um jeden mit einer E-Mail oder einem Google-Konto an Bord zu holen - mit 1-Klick-Login-Flows, flexiblen Authentifizierungsoptionen und sicherer Kontowiederherstellung</li>
           <li className="py-2">🟠Auf beliebte Wallets wie MetaMask, WalletConnect, Coinbase erweiterbar</li>

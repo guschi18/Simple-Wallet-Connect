@@ -12,7 +12,7 @@ import { motion } from "framer-motion";
     <section className='lg:pt-4'>
       <div className='grid grid-cols-1 sm:grid-cols-12'>
         <motion.div 
-        initial={{ opaticity: 0, scale: 0.5}} 
+        initial={{ opacity: 0, scale: 0.5}} 
         animate={{opacity: 1, scale: 1}} 
         transition={{duration: 0.5}} 
         className='col-span-8 place-self-center text-center sm:text-start justify-self-center'><>
@@ -38,7 +38,7 @@ import { motion } from "framer-motion";
             
           </motion.div>
           <motion.div 
-        initial={{ opaticity: 0, scale: 0.5}} 
+        initial={{ opacity: 0, scale: 0.5}} 
         animate={{opacity: 1, scale: 1}} 
         transition={{duration: 0.5}}  className='col-span-4 place-self-center mb-2 lg:mt-0'>
     <     div className='w-[220px] h-[250px]
