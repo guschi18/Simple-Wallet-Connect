@@ -43,7 +43,7 @@ export default function Home() {
           <li className="py-2">🟠Flexible Anmeldeoptionen für Web2 & Web3</li>
           <li className="py-2">🟠Erweiterbare Möglichkeiten, um jeden mit einer E-Mail oder einem Google-Konto an Bord zu holen - mit 1-Klick-Login-Flows, flexiblen Authentifizierungsoptionen und sicherer Kontowiederherstellung</li>
           <li className="py-2">🟠Auf beliebte Wallets wie MetaMask, WalletConnect, Coinbase erweiterbar</li>
-          <li className="py-2">🟠Derzeit ist das Modal ausschließlich in englischer Sprache verfügbar. Eine Erweiterung auf Deutsch ist möglicherweise in Zukunft möglich, hängt jedoch vom Anbieter thirdwebab</li>
+          <li className="py-2">🟠Derzeit ist das Modal ausschließlich in englischer Sprache verfügbar. Eine Erweiterung auf Deutsch ist möglicherweise in Zukunft möglich, hängt jedoch vom Anbieter thirdweb ab</li>
         </ul>
       </div>
     </main>
